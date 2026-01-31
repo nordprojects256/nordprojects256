@@ -1,5 +1,6 @@
 # 🏢 Nord Projects | Software Engineering & Cloud Solutions
 
+![Project Management](https://img.shields.io/badge/Project%20Management-0A66C2?style=for-the-badge&logo=trello&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-0A66C2?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-232f3e?style=for-the-badge&logo=amazonaws&logoColor=orange)
@@ -38,6 +39,8 @@ Our approach combines **strong software engineering principles** with **modern c
 **Backend & Platforms**
 - .NET / ASP.NET Core
 - RESTful & cloud-native APIs
+- JavaScript / Node.js
+- PHP
 
 **DevOps & Cloud**
 - Docker & Docker Compose
