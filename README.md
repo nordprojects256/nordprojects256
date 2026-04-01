@@ -72,14 +72,14 @@ Each repository includes clear documentation and setup instructions.
 
 ## 📊 GitHub Activity
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nordprojects256&show_icons=true" height="160" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordprojects256&layout=compact" height="160"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nordprojects256&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nordprojects256&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nordprojects256&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
