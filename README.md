@@ -86,7 +86,7 @@ Each repository includes clear documentation and setup instructions.
 ## 🤝 Work With Us
 
 🌐 **Website:** https://nordprojects.vercel.app  
-📧 **Email:** contact@nordprojects.dev *(update if needed)*  
+📧 **Email:** nordlink256@gmail.com 
 
 We are open to:
 - Contract & consulting work
